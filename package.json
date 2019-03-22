@@ -1,0 +1,12 @@
+{
+  "name": "learn-dictionary-attack",
+  "version": "1.0.0",
+  "description": "Understanding how dictionary attack works on nodejs app",
+  "scripts": {
+    "start": "node index"
+  },
+  "main": "index.js",
+  "keywords": ["dictionary-attack", "authentication", "brute-force-attack"],
+  "author": "Igor L Irianto <igoririanto@rocketmail.com>",
+  "license": "mit"
+}
